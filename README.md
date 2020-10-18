@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository.
+Hi, My id name is SG-07 where SG are my initials. 
+
+I like to do coding.
